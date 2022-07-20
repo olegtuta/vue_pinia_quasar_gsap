@@ -1,6 +1,9 @@
-# Quasar App (quasar-project)
+# VUE+PINIA+QUASAR+GSAP
+Небольшой визуальный редактор для кастомизации анимированного блока. Построен на vue, библиотеке управления состоянием pinia, фреймворке quasar и библиотеке для анимации GSAP.  
 
-A Quasar Project
+![DEMO](public/gif/demo.gif)
+
+# Инструкция для Quasar
 
 ## Install the dependencies
 ```bash
